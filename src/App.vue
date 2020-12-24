@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-10-22 20:10:02
+ * @LastEditTime: 2020-12-24 16:05:00
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \东台可视化d:\study\vue-cli-pro-ts\src\App.vue
+-->
 <template>
   <div id="app">
     <div id="nav">
@@ -9,6 +17,7 @@
 </template>
 
 <style lang="scss">
+// xiugaipackage
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
