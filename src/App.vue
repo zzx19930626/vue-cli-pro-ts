@@ -9,6 +9,7 @@
 </template>
 
 <style lang="scss">
+// 修改master分支的app
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
